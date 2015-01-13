@@ -3,11 +3,14 @@
 	2.	cd xxx
 	3.	git init
 	4.	git log (--pretty=online)	//to check the history of git work
+<<<<<<< HEAD
 	5.	git add xxx -m "change explaination"	// git add your file then commit your file
 		git push -u origin master	// push local repo to remote repo
 
 	6.	git reset --hard HEAD^	//回退到当前版本的前一个版本^, ^^前两个版本
 		git reflog			//记录每一次的git 命令作为参考
+=======
+>>>>>>> a0d81d0427cc3f6db6dab353386ed4b69d996794
 
 //creat a file to track, do not use Window word to open any file
 	1.	rejected by GitHub
