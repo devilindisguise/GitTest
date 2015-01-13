@@ -5,5 +5,15 @@
 
 
 //creat a file to track, do not use Window word to open any file
-	1.	rejected by GitHub	
+	1.	rejected by GitHub
+			 ! [rejected]        master -> master (non-fast forward)  
+		non-fast forward: 仓库中已经有部分代码，所以不允许你直接把你的代码覆盖上去，2种解决办法：
+			1)	git push -f
+			2)	先把git东西fetch到本地，然后merge, 然后再push
+				git fetch
+				git merge
+
+				这2句命令等价于	git pull
+
+
 	2.	git diff yourfile.txt
