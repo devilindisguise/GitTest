@@ -1,4 +1,4 @@
-//creat Git rep
+﻿//creat Git rep
 	1.	mkdir xxx
 	2.	cd xxx
 	3.	git init
@@ -39,3 +39,5 @@
 				git checkout dev
 				
 2.	git branch		// check current branch
+
+
