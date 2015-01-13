@@ -2,7 +2,7 @@
 	1.	mkdir xxx
 	2.	cd xxx
 	3.	git init
-
+	4.	git log (--pretty=online)	//to check the history of git work
 
 //creat a file to track, do not use Window word to open any file
 	1.	rejected by GitHub
