@@ -29,3 +29,13 @@
 
 	2.	git diff yourfile.txt
 	3.	test sync-up with local repo
+	
+	
+// Git branch
+
+1.	git checkout -b dev		//create and switch to a new branch 'dev'
+		-b = creat and switch
+				git brach dev
+				git checkout dev
+				
+2.	git branch		// check current branch
