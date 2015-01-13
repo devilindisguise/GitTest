@@ -3,6 +3,7 @@
 	2.	cd xxx
 	3.	git init
 	4.	git log (--pretty=online)	//to check the history of git work
+	4.1	git commit -a	//提交全部
 <<<<<<< HEAD
 	5.	git add xxx -m "change explaination"	// git add your file then commit your file
 		git push -u origin master	// push local repo to remote repo
