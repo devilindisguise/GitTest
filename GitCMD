@@ -54,4 +54,6 @@ Git鼓励大量使用分支：
 
 
 //Branch Master
+准备合并dev分支，请注意--no-ff参数，表示禁用Fast forward：
 
+$ git merge --no-ff -m "merge with no-ff" dev
