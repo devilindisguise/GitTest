@@ -15,6 +15,8 @@
 
 				这2句命令等价于	git pull
 
+				result: git pull is Ok to sync up with remote repo, but git fetch& git merge NOK
+
 
 	2.	git diff yourfile.txt
 	3.	test sync-up with local repo
